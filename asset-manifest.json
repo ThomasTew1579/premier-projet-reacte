@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/premier-projet-reacte/static/css/main.790a52af.chunk.css",
-    "main.js": "/premier-projet-reacte/static/js/main.20ed96ad.chunk.js",
-    "main.js.map": "/premier-projet-reacte/static/js/main.20ed96ad.chunk.js.map",
-    "runtime~main.js": "/premier-projet-reacte/static/js/runtime~main.a47de5c2.js",
-    "runtime~main.js.map": "/premier-projet-reacte/static/js/runtime~main.a47de5c2.js.map",
-    "static/css/2.266e55a5.chunk.css": "/premier-projet-reacte/static/css/2.266e55a5.chunk.css",
-    "static/js/2.92a4fd71.chunk.js": "/premier-projet-reacte/static/js/2.92a4fd71.chunk.js",
-    "static/js/2.92a4fd71.chunk.js.map": "/premier-projet-reacte/static/js/2.92a4fd71.chunk.js.map",
-    "index.html": "/premier-projet-reacte/index.html",
-    "precache-manifest.b6c2debef198f28f1b4dd72803fc9dbc.js": "/premier-projet-reacte/precache-manifest.b6c2debef198f28f1b4dd72803fc9dbc.js",
-    "service-worker.js": "/premier-projet-reacte/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/premier-projet-reacte/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.790a52af.chunk.css.map": "/premier-projet-reacte/static/css/main.790a52af.chunk.css.map"
+    "main.css": "/premier-projet-react/static/css/main.790a52af.chunk.css",
+    "main.js": "/premier-projet-react/static/js/main.20ed96ad.chunk.js",
+    "main.js.map": "/premier-projet-react/static/js/main.20ed96ad.chunk.js.map",
+    "runtime~main.js": "/premier-projet-react/static/js/runtime~main.8117033f.js",
+    "runtime~main.js.map": "/premier-projet-react/static/js/runtime~main.8117033f.js.map",
+    "static/css/2.266e55a5.chunk.css": "/premier-projet-react/static/css/2.266e55a5.chunk.css",
+    "static/js/2.92a4fd71.chunk.js": "/premier-projet-react/static/js/2.92a4fd71.chunk.js",
+    "static/js/2.92a4fd71.chunk.js.map": "/premier-projet-react/static/js/2.92a4fd71.chunk.js.map",
+    "index.html": "/premier-projet-react/index.html",
+    "precache-manifest.7c879263514ad20548e14c992e18f3e7.js": "/premier-projet-react/precache-manifest.7c879263514ad20548e14c992e18f3e7.js",
+    "service-worker.js": "/premier-projet-react/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/premier-projet-react/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.790a52af.chunk.css.map": "/premier-projet-react/static/css/main.790a52af.chunk.css.map"
   }
 }
