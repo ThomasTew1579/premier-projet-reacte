@@ -5,7 +5,7 @@ export class AddTask extends Component {
   handleSubmit = (e) => {
     e.preventDefault()
     this.props.onAddTask(this.newTask.value)
-    this.props.history.push('/')
+    this.props.history.push("/premier-projet-reacte");
   }
 
 

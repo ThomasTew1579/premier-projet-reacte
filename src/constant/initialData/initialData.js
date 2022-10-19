@@ -1,8 +1,20 @@
 let initialData = [
-    {id: 'jsertu7a', name: 'Ranger la vaisselle', completed: false},
-    {id: 'jseruo7l', name: 'Répondre appel d\'offres', completed: false},
-    {id: 'jseruy2q', name: 'Signer contrat', completed: false},
-    {id: 'jserv4sw', name: 'Aspirer le salon', completed: false}
-]
+  {
+    id: "jserv4sw",
+    name: "Regarder les nouvelles offres d'emploi 🔍",
+    completed: false,
+  },
+  {
+    id: "jseruy2q",
+    name: "Relancer les dernières candidatures ✉️",
+    completed: false,
+  },
+  {
+    id: "jseruo7l",
+    name: "Écouter le dernier album de Whist 🐙",
+    completed: false,
+  },
+  { id: "jsertu7a", name: "Aller à l'escalade 🧗‍♀️", completed: false },
+];
 
 export default initialData;
