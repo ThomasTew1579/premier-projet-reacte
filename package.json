@@ -2,8 +2,10 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ThomasTew1579.github.io/premier-projet-reacte",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^4.0.0",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
@@ -14,6 +16,7 @@
     "uniqueid": "^1.0.0"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
